@@ -12,9 +12,3 @@
         <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
     </div>
 </div>
-
-## Hi, I'm Eldar
-### Software and Machine Learning Engineer from Kazakhstan 🇰🇿
-#### Currently studying Computer Science at UNIST in South Korea 🇰🇷
-#### Trying to combine software development with machine learning to create magic 🔮
-#### How to reach me: **eldar.kusd@gmail.com**
